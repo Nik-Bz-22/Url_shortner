@@ -13,8 +13,9 @@ npm install -g aws-cdk
 pip install --requirements requirements.txt
 pip install --requirements requirements-dev.txt
 ```
+### 3 Fill the .env.example
 
-### 3 Deploy your code
+### 4 Deploy your code
 ```
 cdk deploy
 ```
